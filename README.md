@@ -22,7 +22,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Natural Language Processing
 
 	- [Spam-Email - Prediction](https://github.com/jitusharma7/Spam-Email-_-NLP): This project aims is to classify mail into spam and non-spam category based on the content of mail using Natural Language Processing (NLP)
-
+	- [NLP-with-disaster-Management](https://github.com/jitusharma7/NLP-with-disaster-Management): The aim of the project is to build a model that can predict that whether a tweet is related to disaster or not based on tweet content.
 	_Tools: NLTK, scikit_
 
 - ### Deep Learning

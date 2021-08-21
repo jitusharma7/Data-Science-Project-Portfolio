@@ -26,7 +26,9 @@ Repository containing portfolio of data science projects completed by me for aca
 	_Tools: NLTK, scikit_
 
 - ### Deep Learning
-  
+
+
+     - [Animal-Breed-Classification-using-CNN](https://github.com/jitusharma7/Animal-Breed-Classification-using-CNN): The project aims to predict the breed of a dog and cat using its image.
      - [Google-stock-price-trend-prediction-using-LSTM](https://github.com/jitusharma7/Google-stock-price-trend-prediction-using-LSTM): The project aims to build an LSTM model to predict the trend of Google stock price.
      - [ANN-Churn-Modelling](https://github.com/jitusharma7/ANN-Churn-Modelling-): The purpose of this project is to build a higher accurate model and identify the key factors which are the main driving factor for customer churn.
       - [Malaria-Cell-Image-Detection](https://github.com/jitusharma7/Malaria-Cell-Image-Detection): The purpose of this project is to analyze the images of human cells using convolutional neural networks and classify them as parasitized or uninfected.
